@@ -1,0 +1,7 @@
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\Daily_Report_Assingment\Daily_Report_Assingment\bin\Debug\Daily_Report_Assingment.exe.config
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\Daily_Report_Assingment\Daily_Report_Assingment\bin\Debug\Daily_Report_Assingment.exe
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\Daily_Report_Assingment\Daily_Report_Assingment\bin\Debug\Daily_Report_Assingment.pdb
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\Daily_Report_Assingment\Daily_Report_Assingment\obj\Debug\Daily_Report_Assingment.csproj.AssemblyReference.cache
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\Daily_Report_Assingment\Daily_Report_Assingment\obj\Debug\Daily_Report_Assingment.csproj.CoreCompileInputs.cache
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\Daily_Report_Assingment\Daily_Report_Assingment\obj\Debug\Daily_Report_Assingment.exe
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\Daily_Report_Assingment\Daily_Report_Assingment\obj\Debug\Daily_Report_Assingment.pdb
