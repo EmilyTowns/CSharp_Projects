@@ -1,0 +1,7 @@
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\OperatorChallenge\OperatorChallenge\bin\Debug\OperatorChallenge.exe.config
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\OperatorChallenge\OperatorChallenge\bin\Debug\OperatorChallenge.exe
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\OperatorChallenge\OperatorChallenge\bin\Debug\OperatorChallenge.pdb
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.csproj.AssemblyReference.cache
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.exe
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.pdb
