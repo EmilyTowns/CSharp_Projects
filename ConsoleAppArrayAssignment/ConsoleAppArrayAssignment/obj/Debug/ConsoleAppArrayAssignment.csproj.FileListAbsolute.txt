@@ -1,0 +1,7 @@
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\bin\Debug\ConsoleAppArrayAssignment.exe.config
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\bin\Debug\ConsoleAppArrayAssignment.exe
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\bin\Debug\ConsoleAppArrayAssignment.pdb
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.exe
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.pdb
