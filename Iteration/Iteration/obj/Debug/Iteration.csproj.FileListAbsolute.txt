@@ -1,0 +1,7 @@
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\Iteration\Iteration\obj\Debug\Iteration.csproj.AssemblyReference.cache
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\Iteration\Iteration\obj\Debug\Iteration.pdb
