@@ -6,29 +6,31 @@ using System.Threading.Tasks;
 
 namespace CallingMethodsAssignment
 {
-    public class Age
+    public class Ages
     {
-        public int age;
-        
-        public void Age5(int input)
+        public static int Age5()
         {
-            Age age5 = new Age();
-            age5.age = input;
-            Console.WriteLine("In 5 years, you will be " + age5.age + ".");
+            int addFive = Program.userInput();
+            addFive = addFive + 5;
+            return addFive;
         }
 
-        public void Age10(int input)
+        public static int Age10()
         {
-            Age age10 = new Age();
-            age10.age = input;
-            Console.WriteLine("In 10 years, you will be " + age10.age + ".");
+            int addTen = Age5();
+            addTen = addTen + 5;
+            return addTen;
         }
 
-        public void Age15(int input)
+        public static int Age15()
         {
-            Age age15 = new Age();
-            age15.age = input;
-            Console.WriteLine("In 15 years, you will be " + age15.age + ".");
+            int addFifteen = Age10();
+            addFifteen = addFifteen + 5;
+            return addFifteen;
         }
     }
+        
+    
+
+    
 }
