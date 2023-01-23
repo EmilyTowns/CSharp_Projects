@@ -8,29 +8,22 @@ namespace CallingMethodsAssignment
 {
     public class Ages
     {
-        public static int Age5()
-        {
-            int addFive = Program.userInput();
+        public static int Age5(int addFive)
+        { 
             addFive = addFive + 5;
             return addFive;
         }
 
-        public static int Age10()
+        public static int Age10(int addTen)
         {
-            int addTen = Age5();
-            addTen = addTen + 5;
+            addTen = addTen + 10;
             return addTen;
         }
 
-        public static int Age15()
+        public static int Age15(int addFifteen)
         {
-            int addFifteen = Age10();
-            addFifteen = addFifteen + 5;
+            addFifteen = addFifteen + 15;
             return addFifteen;
         }
-    }
-        
-    
-
-    
+    }   
 }

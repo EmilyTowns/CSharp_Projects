@@ -8,23 +8,19 @@ namespace CallingMethodsAssignment
 {
     public class Program
     {
-        public static int userInput()
+        public static void Main(string[] args)
         {
             Console.WriteLine("Let's see how old you will be in 5, 10, and 15 years.");
             Console.WriteLine("Please enter your current age:");
             int currentAge = Convert.ToInt32(Console.ReadLine());
-            return currentAge;
-        }
 
-        public static void Main(string[] args)
-        {
-            int five = Ages.Age5();
+            int five = Ages.Age5(currentAge);
             Console.WriteLine("In 5 years, you will be " + five + ".");
 
-            int ten = Ages.Age10();
+            int ten = Ages.Age10(currentAge);
             Console.WriteLine("In 10 years, you will be " + ten + ".");
 
-            int fifteen = Ages.Age15();
+            int fifteen = Ages.Age15(currentAge);
             Console.WriteLine("In 15 years, you will be " + fifteen + ".");
 
             Console.ReadLine();
