@@ -1,0 +1,7 @@
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.exe.config
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.exe
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.pdb
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.csproj.AssemblyReference.cache
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.exe
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.pdb
