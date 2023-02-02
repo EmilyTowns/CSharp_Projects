@@ -1,0 +1,7 @@
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\LambdaExpressionAssignment.exe.config
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\LambdaExpressionAssignment.exe
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\LambdaExpressionAssignment.pdb
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.csproj.AssemblyReference.cache
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.exe
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.pdb
