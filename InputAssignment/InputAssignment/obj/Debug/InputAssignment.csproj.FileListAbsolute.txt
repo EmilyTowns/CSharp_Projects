@@ -1,0 +1,6 @@
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe.config
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\InputAssignment\InputAssignment\bin\Debug\InputAssignment.pdb
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\InputAssignment\InputAssignment\obj\Debug\InputAssignment.exe
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\InputAssignment\InputAssignment\obj\Debug\InputAssignment.pdb
