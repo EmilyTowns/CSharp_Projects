@@ -12,3 +12,6 @@ C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\TwentyO
 C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\TwentyOne\TwentyOne\bin\Debug\Casino1.dll
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\TwentyOne\TwentyOne\bin\Debug\Casino1.pdb
