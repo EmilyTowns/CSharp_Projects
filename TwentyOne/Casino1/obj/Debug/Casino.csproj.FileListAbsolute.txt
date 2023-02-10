@@ -3,3 +3,4 @@ C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\TwentyO
 C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\TwentyOne\Casino1\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\TwentyOne\Casino1\obj\Debug\Casino1.dll
 C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\TwentyOne\Casino1\obj\Debug\Casino1.pdb
+C:\Users\emily\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\TwentyOne\Casino1\obj\Debug\Casino.csproj.AssemblyReference.cache
