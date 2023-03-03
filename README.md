@@ -17,28 +17,20 @@ Work for the C# and .NET Framework course in Software Development diploma progra
   <hr>
   <h3>Car Insurance</h3>
   <p>An example of an MVC web application that connects to a database for car insurance information. Includes mathematical operations to calculate quotes to be included in an admin view, as well as views to create, edit, and delete clients.</p>
-  <br>
   <h3>Exception Handling</h3>
   <p>An example of using exception handling in C# code.</p>
-  <br>
   <h3>Lambda Expression Assignment</h3>
   <p>An example of using lambda expressions, including the long-form code that is commented out to illustrate the efficiency of lambda expressions.</h3>
   <h3>Method Class Assignment</h3>
   <p>An example of using method classes to perform math operations.</p>
-  <br>
   <h3>MVC Newsletter App</h3>
   <p>A walktrhough of using MVC to create the framework for a basic web app for a newsletter.</p>
-  <br>
   <h3>Operators Assignment</h3>
   <p>A basic example of using operators within the context of C# classes.</p>
-  <br>
   <h3>Polymorphism Assignment</h3>
   <p>An example using polymorphism to make code more flexible and efficient.</p>
-  <br>
   <h3>Student Database</h3>
   <p>A console app that uses a code-first approach to create a database of student information using entity framework.</p>
-  <br>
   <h3>Twenty One Game</h3>
   <p>A course walkthrough that creates a console app for a game of blackjack. This includes concepts such as classes, SQL Server (including writing to and reading from databases), exception handling, methods, loops, math, operators, and more.</p>
-  <br>
   <p>Other projects related to C# and .NET Framework.</p>
