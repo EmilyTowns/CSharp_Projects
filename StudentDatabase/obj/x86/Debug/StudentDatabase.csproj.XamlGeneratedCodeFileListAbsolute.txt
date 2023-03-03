@@ -1,0 +1,3 @@
+obj\x86\Debug\_StudentDatabase.g.cs
+obj\x86\Debug\Workflow1.g.cs
+obj\x86\Debug\StudentDatabase_Workflow1_BeforeInitializeComponentHelper.cs
